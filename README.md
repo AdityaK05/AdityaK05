@@ -1,389 +1,347 @@
-<!-- ═══════════════════════════════════════════════════════════════════
-     ADITYA KAUSHIK — GITHUB PROFILE README
-     Drop this into: AdityaK05/AdityaK05/README.md
-════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,30:0d0221,60:0a0f1e,100:000000&height=160&section=header&text=ADITYA%20KAUSHIK&fontSize=62&fontColor=e2e8f0&fontAlignY=55&animation=fadeIn&stroke=6366f1&strokeWidth=2" width="100%"/>
+
+</div>
 
 <div align="center">
 
-<!-- ───────── ANIMATED HEADER BANNER ───────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Kaushik&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Competitive%20Programmer&descAlignY=58&descSize=16&animation=fadeIn" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  FULL-STACK ENGINEER  ·  AI SYSTEMS BUILDER  ·  CP ENTHUSIAST   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<!-- ───────── TYPING ANIMATION ───────── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Full-Stack+Systems;500%2B+DSA+Problems+Solved;ICPC+Amritapuri+Phase+1+Qualifier;Open+to+Internships+%26+Collabs+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=818CF8&center=true&vCenter=true&random=false&width=650&lines=console.log(%22Hello%2C+World.+I+build+things+that+matter.%22);git+push+origin+production+%2F%2F+yes%2C+fearlessly;500%2B+DSA+problems+%E2%9C%93+%7C+ICPC+Qualifier+%E2%9C%93;Currently+shipping%3A+AI-powered+full-stack+systems;Open+to+internships+%26+collabs+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-<!-- ───────── SOCIAL BADGES ───────── -->
-<a href="https://linkedin.com/in/adityakaushik05">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:adityagr8.05@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/nitro_05/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://codeforces.com/profile/nitro_0507">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-<a href="https://www.geeksforgeeks.org/profile/adityakaushik05">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-<a href="https://github.com/AdityaK05">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<div align="center">
 
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adityakaushik05-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakaushik05)&ensp;
+[![Gmail](https://img.shields.io/badge/Gmail-adityagr8.05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adityagr8.05@gmail.com)&ensp;
+[![GitHub](https://img.shields.io/badge/GitHub-AdityaK05-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdityaK05)&ensp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-nitro__05-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/nitro_05/)&ensp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-nitro__0507-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nitro_0507)&ensp;
+[![GeeksForGeeks](https://img.shields.io/badge/GFG-adityakaushik05-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/adityakaushik05)
 
-<!-- ───────── PROFILE VIEWS + FOLLOWERS ───────── -->
-<img src="https://komarev.com/ghpvc/?username=AdityaK05&label=Profile+Views&color=7c3aed&style=flat-square"/>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AdityaK05&label=profile+views&color=6366f1&style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/AdityaK05?label=Followers&style=flat-square&color=7c3aed"/>
-
+<img src="https://img.shields.io/github/followers/AdityaK05?label=followers&style=flat-square&color=6366f1"/>
 </div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+## `> whoami`
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-## 🧠 About Me
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ```typescript
-const aditya: Developer = {
-  name:       "Aditya Kaushik",
-  college:    "Bangalore Institute of Technology",
-  year:       "3rd Year CSE",
-  cgpa:       9.0,
-  location:   "Bengaluru, India 📍",
-  pronouns:   "he/him",
+interface Engineer {
+  identity:    string;
+  institution: string;
+  gpa:         number;
+  location:    string;
+  building:    string[];
+  solved:      string;
+  accolades:   string[];
+  reachOut:    string;
+}
 
-  currentlyBuilding: "AI-powered full-stack systems",
-  dsaProblems:       "500+ across LC, CF & GFG",
-  achievement:       "ICPC Amritapuri Phase 1 Qualifier 🏆",
-
-  askMeAbout: [
-    "Full-Stack Dev", "System Design",
-    "LLM Integration", "Competitive Programming"
+const aditya: Engineer = {
+  identity:    "Aditya Kaushik — 3rd Year CSE @ BIT Bengaluru",
+  institution: "Bangalore Institute of Technology",
+  gpa:         9.0,
+  location:    "Bengaluru, India 🇮🇳",
+  building:    [
+    "AI-powered full-stack systems",
+    "Geospatial platforms at scale",
+    "Real-time data pipelines",
   ],
-
-  funFact: "I debug in production 😅 (kidding, I use Railway)"
+  solved:      "500+ across LeetCode · Codeforces · GFG",
+  accolades:   [
+    "ICPC Amritapuri Phase 1 Qualifier 🏆",
+    "Flipkart Grid — National Level",
+    "EY Techathon 4.0 & 5.0",
+    "DEV HEAT @ IIIT Surat",
+  ],
+  reachOut:    "adityagr8.05@gmail.com",
 };
+
+// Philosophy
+const credo = "Ship it. Serve real users. Iterate fast.";
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+## `> ls ./projects --sort=impact`
 
-## 🚀 Featured Projects
+<!-- ─────────────────────────────────────── PROJECT 1 ─── -->
+
+<details open>
+<summary><b>🚗 &nbsp;DriveRight AI &nbsp;—&nbsp; Fleet Management Dashboard &nbsp; <code>2025</code></b></summary>
 
 <br/>
 
-<!-- PROJECT 1 -->
-<table>
-<tr>
-<td width="60">
-<img src="https://img.shields.io/badge/01-FF6B6B?style=for-the-badge&logoColor=white" />
-</td>
-<td>
+> *"What if every car rental manager had a real-time AI co-pilot?"*
 
-### 🚗 DriveRight AI — Fleet Management Dashboard
-**[`🔗 Live Demo`](https://fleetmanager-production-0505.up.railway.app)** &nbsp;|&nbsp; **[`📂 GitHub`](https://github.com/AdityaK05/Fleet_Manager)**
+AI-powered fleet management platform for car rental businesses with intelligent operational insights, live vehicle tracking, and a full rental lifecycle engine.
 
-> AI-powered fleet management platform for car rental businesses with real-time tracking & intelligent operational insights.
+| Layer | Stack |
+|:------|:------|
+| **Frontend** | React 18 · TypeScript · TailwindCSS |
+| **Backend** | Node.js · Express · Drizzle ORM |
+| **Database** | PostgreSQL (Railway) |
+| **AI** | Groq SDK · LLaMA 3.1 |
+| **Infra** | Railway (production-grade deployment) |
 
-- 🤖 **LLaMA 3.1 (Groq SDK)** AI assistant for live fleet recommendations
-- 📊 Full rental lifecycle management — bookings, returns, vehicle health
-- ⚡ Real-time vehicle tracking with sub-second updates
-- 🚀 Deployed on **Railway** with production-grade PostgreSQL
+**Highlights**
+- 🤖 LLaMA 3.1 assistant answers live fleet queries in natural language
+- ⚡ Sub-second vehicle tracking with real-time state sync
+- 📋 End-to-end rental lifecycle — bookings, returns, health monitoring
 
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-fleetmanager--production--0505.up.railway.app-6366f1?style=flat-square)](https://fleetmanager-production-0505.up.railway.app)&nbsp;
+[![Repo](https://img.shields.io/badge/📂%20Source-AdityaK05/Fleet_Manager-181717?style=flat-square&logo=github)](https://github.com/AdityaK05/Fleet_Manager)
+
+</details>
+
+<br/>
+
+<!-- ─────────────────────────────────────── PROJECT 2 ─── -->
+
+<details open>
+<summary><b>📍 &nbsp;HoldIt &nbsp;—&nbsp; Geospatial Inventory Reservation System &nbsp; <code>2026</code></b></summary>
+
+<br/>
+
+> *"Reserve what's near you, pick it up on your terms."*
+
+Proximity-aware platform letting users reserve nearby products with OTP-verified pickup — built for async scale with a full payments layer.
+
+| Layer | Stack |
+|:------|:------|
+| **Frontend** | Next.js · TypeScript |
+| **Backend** | FastAPI (Python) |
+| **Database** | PostgreSQL · PostGIS · Redis |
+| **Queue** | Celery (async task processing) |
+| **Payments** | Razorpay |
+
+**Highlights**
+- 🗺️ PostGIS spatial indexing for sub-millisecond proximity lookups
+- 🔄 Celery + Redis async queue handles reservation workflows at scale
+- 🔐 OTP-verified pickup — zero inventory leakage
+
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-holdit--ten.vercel.app-6366f1?style=flat-square)](https://holdit-ten.vercel.app)&nbsp;
+[![Repo](https://img.shields.io/badge/📂%20Source-AdityaK05/holdit-181717?style=flat-square&logo=github)](https://github.com/AdityaK05/holdit)
+
+</details>
+
+<br/>
+
+<!-- ─────────────────────────────────────── PROJECT 3 ─── -->
+
+<details>
+<summary><b>⚖️ &nbsp;LLM Benchmarking Platform &nbsp;—&nbsp; Head-to-head AI model analytics</b></summary>
+
+<br/>
+
+> *"Stop guessing which model to use. Measure it."*
+
+Real-time benchmarking dashboard that pit GPT-4, Gemini, Claude, and Groq against each other — latency, cost, quality, and token usage, side by side.
+
+| Feature | Detail |
+|:--------|:-------|
+| **Execution** | `Promise.all()` parallel API calls — all models hit simultaneously |
+| **Analytics** | Latency charts · token usage · cost-per-query · live rankings |
+| **Intelligence** | Automated recommender picks the optimal model per use-case |
+| **Coverage** | OpenAI · Google Gemini · Anthropic Claude · Groq |
+
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-llm--benchmarking--psi.vercel.app-6366f1?style=flat-square)](https://llm-benchmarking-psi.vercel.app)&nbsp;
+[![Repo](https://img.shields.io/badge/📂%20Source-AdityaK05/LLM--BENCHMARKING-181717?style=flat-square&logo=github)](https://github.com/AdityaK05/LLM-BENCHMARKING)
+
+</details>
+
+<br/>
+
+<!-- ─────────────────────────────────────── PROJECT 4 ─── -->
+
+<details>
+<summary><b>🚑 &nbsp;ResQRoute &nbsp;—&nbsp; Smart Emergency Routing System</b></summary>
+
+<br/>
+
+> *"Every second counts. So we optimized them."*
+
+AI-assisted ambulance navigation with A\* pathfinding, live hospital capacity awareness, and real-time driver tracking.
+
+- 🗺️ **A\* Algorithm** — optimized emergency route computation with live rerouting
+- 📡 **Socket.IO** — real-time ambulance tracking pushed to dispatch dashboards
+- 🏥 **Dynamic hospital selection** — capacity + proximity scoring in one pass
+- 🗺️ **Google Maps APIs** — real-world map tiles and routing
+
+[![Repo](https://img.shields.io/badge/📂%20Source-arnavbhardwaj457/ResQRoute-181717?style=flat-square&logo=github)](https://github.com/arnavbhardwaj457/ResQRoute)
+
+</details>
+
+<br/>
+
+<!-- ─────────────────────────────────────── PROJECT 5 & 6 ─── -->
+
+<details>
+<summary><b>🌐 UnisoNetwork &nbsp;·&nbsp; 📊 Profilytics &nbsp;—&nbsp; Social platform & developer analytics</b></summary>
+
+<br/>
+
+**UnisoNetwork** — Full-stack social networking platform. Real-time features, auth, and a scalable TypeScript monorepo architecture.
+[![Repo](https://img.shields.io/badge/📂%20GitHub-UnisoNetwork-181717?style=flat-square&logo=github)](https://github.com/AdityaK05/UnisoNetwork)
+
+**Profilytics** — Developer analytics dashboard: visualise your activity, metrics, and performance insights at a glance.
+[![Repo](https://img.shields.io/badge/📂%20GitHub-Profilytics-181717?style=flat-square&logo=github)](https://github.com/AdityaK05/Profilytics)
+
+</details>
+
+---
+
+## `> cat ./stack.json`
+
+<div align="center">
+
+```json
+{
+  "languages":  ["C++", "Python", "TypeScript", "JavaScript", "Java", "C"],
+  "frontend":   ["React 18", "Next.js", "TailwindCSS", "HTML5", "CSS3"],
+  "backend":    ["Node.js", "Express", "FastAPI"],
+  "databases":  ["PostgreSQL", "MongoDB", "Redis", "PostGIS", "Drizzle ORM"],
+  "ai_ml":      ["Groq / LLaMA 3.1", "OpenAI", "Google GenAI", "Claude",
+                 "Scikit-learn", "XGBoost", "Isolation Forest", "SHAP"],
+  "devops":     ["Docker", "Railway", "Vercel", "Git", "Postman", "VS Code"],
+  "cs_core":    ["DBMS", "OOP", "Computer Networks", "OS", "DSA"]
+}
+```
+
+</div>
+
+<div align="center">
+
+<!-- Languages -->
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20LLaMA%203.1-FF6B35?style=flat-square)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECT 2 -->
-<table>
-<tr>
-<td width="60">
-<img src="https://img.shields.io/badge/02-4ECDC4?style=for-the-badge&logoColor=white" />
-</td>
-<td>
-
-### 📍 HoldIt — Geospatial Inventory Reservation System
-**[`🔗 Live Demo`](https://holdit-ten.vercel.app)** &nbsp;|&nbsp; **[`📂 GitHub`](https://github.com/AdityaK05/holdit)**
-
-> Reserve nearby products with OTP-based pickup verification — geospatially aware, payment integrated, async at scale.
-
-- 🗺️ **PostGIS** proximity-based inventory queries using geospatial indexing
-- 🔄 Async task queue with **Celery + Redis** for scalable background jobs
-- 💳 **Razorpay** payment integration with OTP-verified pickup flow
-- 🐍 Python **FastAPI** backend with Next.js frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECT 3 -->
-<table>
-<tr>
-<td width="60">
-<img src="https://img.shields.io/badge/03-A78BFA?style=for-the-badge&logoColor=white" />
-</td>
-<td>
-
-### 🤖 LLM Benchmarking Platform
-**[`🔗 Live Demo`](https://llm-benchmarking-psi.vercel.app)** &nbsp;|&nbsp; **[`📂 GitHub`](https://github.com/AdityaK05/LLM-BENCHMARKING)**
-
-> Compare GPT-4, Gemini, Claude & Groq head-to-head in real time — latency, cost, quality, token usage, all in one dashboard.
-
-- ⚡ **Parallel API execution** via `Promise.all()` for simultaneous multi-model benchmarking
-- 📊 Interactive analytics — latency charts, token usage, cost per query, model rankings
-- 🏆 Automated recommendation engine picks the best model per use case
-- 🔬 Supports **OpenAI · Gemini · Claude · Groq** APIs
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<!-- Frontend -->
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<!-- Backend -->
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+<!-- DB & Infra -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECT 4 -->
-<table>
-<tr>
-<td width="60">
-<img src="https://img.shields.io/badge/04-F59E0B?style=for-the-badge&logoColor=white" />
-</td>
-<td>
-
-### 🚑 ResQRoute — Smart Emergency Routing System
-**[`📂 GitHub`](https://github.com/arnavbhardwaj457/ResQRoute)**
-
-> AI-assisted ambulance navigation with real-time hospital selection, live tracking, and A\* optimized routing.
-
-- 🗺️ **A\* Algorithm** for optimized emergency path computation
-- 📡 Live ambulance tracking via **Socket.IO** websockets
-- 🏥 Dynamic hospital selection based on capacity & proximity
-- 🗺️ **Google Maps APIs** for real-time rerouting
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECT 5 -->
-<table>
-<tr>
-<td width="60">
-<img src="https://img.shields.io/badge/05-10B981?style=for-the-badge&logoColor=white" />
-</td>
-<td>
-
-### 🌐 UnisoNetwork — Social Platform
-**[`📂 GitHub`](https://github.com/AdityaK05/UnisoNetwork)**
-
-> Full-stack social networking platform built with real-time features, user authentication, and a scalable TypeScript architecture.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECT 6 -->
-<table>
-<tr>
-<td width="60">
-<img src="https://img.shields.io/badge/06-EC4899?style=for-the-badge&logoColor=white" />
-</td>
-<td>
-
-### 📊 Profilytics — Analytics Dashboard
-**[`📂 GitHub`](https://github.com/AdityaK05/Profilytics)**
-
-> Developer analytics and profiling dashboard for visualizing activity, metrics and performance insights.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases & Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logoColor=black)
-
-### AI / ML
-![Groq](https://img.shields.io/badge/Groq%20%7C%20LLaMA%203.1-FF6B35?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<!-- AI -->
+![Groq](https://img.shields.io/badge/Groq%20LLaMA%203.1-FF6B35?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
-
-## 📊 GitHub Stats
+## `> git log --oneline --stats`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdityaK05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdityaK05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=94a3b8&ring_color=6366f1" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=818cf8&text_color=94a3b8" />
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaK05&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaK05&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaK05&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaK05&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&line=6366f1&point=818cf8&color=94a3b8" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
-
-## 🏆 Achievements & Competitions
+## `> ./achievements --verbose`
 
 <div align="center">
 
-| 🥇 | Competition | Level |
-|:---:|:---|:---|
-| 🏆 | **ICPC — Amritapuri Regional** | Phase 1 Qualifier |
-| ⚡ | **DEV HEAT — IIIT Surat Hackathon** | Participant |
-| 🛒 | **Flipkart Grid** | National Level |
-| 💼 | **EY Techathon 4.0** | Participant |
-| 💼 | **EY Techathon 5.0** | Participant |
-
-</div>
+| Badge | Event | Scope |
+|:-----:|:------|:------|
+| 🏆 | **ICPC — Amritapuri Regional** | Phase 1 Qualifier · International |
+| 🛒 | **Flipkart Grid** | National Level Competition |
+| ⚡ | **DEV HEAT — IIIT Surat Hackathon** | Inter-college |
+| 💼 | **EY Techathon 4.0** | National |
+| 💼 | **EY Techathon 5.0** | National |
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaK05&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
-</div>
-
----
-
-<!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
-
-## 📜 Certifications
-
-<div align="center">
-
-![Web Dev](https://img.shields.io/badge/Web%20Development%20Bootcamp-Angela%20Yu-FF6B6B?style=for-the-badge&logo=udemy&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning%20Bootcamp-Kirill%20Eremenko-4ECDC4?style=for-the-badge&logo=udemy&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA%20in%20C++-Certified-A78BFA?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaK05&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=6&no-bg=true"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+## `> cat ./certifications.txt`
+
+```
+[✓]  Web Development Bootcamp          — Angela Yu        (Udemy)
+[✓]  Machine Learning Bootcamp         — Kirill Eremenko  (Udemy)
+[✓]  Data Structures & Algorithms C++  — Certified
+```
+
+---
+
+## `> ping aditya --open-to=work`
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Remarkable
-
-[![Email](https://img.shields.io/badge/adityagr8.05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityagr8.05@gmail.com)
-[![Phone](https://img.shields.io/badge/+91--7275247405-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917275247405)
-[![LinkedIn](https://img.shields.io/badge/adityakaushik05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakaushik05)
-
-<br/>
-
-> *"The best code is the code that ships — and serves real users."*
+```
+STATUS: ✅ Open to internships & project collaborations
+RESPONSE TIME: fast
+PREFERRED STACK: Full-Stack · AI Systems · Competitive Systems
+```
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+[![Email](https://img.shields.io/badge/📩%20Email%20me-adityagr8.05@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityagr8.05@gmail.com)&ensp;
+[![Phone](https://img.shields.io/badge/📞%20WhatsApp-+91--7275247405-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917275247405)&ensp;
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-adityakaushik05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakaushik05)
+
+<br/>
+
+```
+"The best code is the code that ships — and serves real users."
+                                                    — Aditya K.
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0221,80:0a0f1e,100:0a0a0f&height=100&section=footer&reversal=false" width="100%"/>
 
 </div>
