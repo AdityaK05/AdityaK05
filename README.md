@@ -26,7 +26,7 @@
 <td width="60%">
 
 **Bangalore Institute of Technology**
-🎓 3rd Year Computer Science Engineering &nbsp;|&nbsp; CGPA: 9.0
+🎓 4th Year Computer Science Engineering &nbsp;|&nbsp; CGPA: 9.0
 📍 Based in Bengaluru, India
 📧 adityagr8.05@gmail.com &nbsp;|&nbsp; 📱 +91-7275247405
 
