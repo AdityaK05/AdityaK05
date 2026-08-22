@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:03001a,50:07002e,80:03001a,100:000000&height=300&section=header&text=ADITYA%20KAUSHIK&fontSize=80&fontColor=a78bfa&animation=twinkling&fontFamily=Soria" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:03001a,50:07002e,80:03001a,100:000000&height=300&section=header&text=ADITYA%20KAUSHIK&fontSize=80&fontColor=a78bfa&animatio[...]
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=800&lines=Crafting+intelligent+systems+at+scale;Full-Stack+Developer;AI+%26+System+Design;Production-Grade+Solutions;Shipping+at+the+speed+of+thought" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=800&lines=Crafting+intelligent+systems+at+scale;Fu[...]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adityakaushik05-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakaushik05)
 [![Gmail](https://img.shields.io/badge/Gmail-adityagr8.05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityagr8.05@gmail.com)
@@ -135,6 +135,20 @@ Race GPT-4 vs Gemini vs Claude vs Groq simultaneously on your exact queries — 
 </td></tr>
 <tr><td>
 
+### 🛡️ PAYGUARD — *Fraud Detection & Transaction Monitoring, 2026*
+`Next.js` `TypeScript` `Stripe` `TailwindCSS` `Real-time Analytics`
+
+Advanced payment fraud detection system with real-time transaction monitoring. Identify suspicious patterns, prevent fraudulent transactions, and secure every payment.
+
+**[🔗 Live Demo](https://payguard-app-six.vercel.app/) &nbsp;·&nbsp; [📦 Source Code](https://github.com/AdityaK05/payguard)**
+
+- Real-time fraud detection with ML-based pattern recognition
+- Transaction risk scoring and alerts
+- Comprehensive transaction analytics dashboard
+
+</td></tr>
+<tr><td>
+
 ### 🚑 RESQROUTE — *Smart Emergency Response Routing, 2026*
 `Next.js` `Node.js` `MongoDB` `Socket.IO` `Google Maps APIs` `A* Algorithm`
 
@@ -196,10 +210,10 @@ AI-assisted ambulance navigation with real-time optimization. A* pathfinding com
 
 ## 📊 GITHUB ANALYTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdityaK05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=030014&title_color=a78bfa&text_color=a5b4fc&icon_color=a78bfa"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=030014&title_color=a78bfa&text_color=a5b4fc"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdityaK05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=030014&title_[...]
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=030014&title_color=a78bfa&text_co[...]
 
-<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaK05&theme=tokyonight&hide_border=true&background=030014&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideNums=a5b4fc"/>
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaK05&theme=tokyonight&hide_border=true&background=030014&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideNums=a5b4f[...]
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaK05&theme=tokyo-night&hide_border=true&area=true&bg_color=030014&line=7c3aed&point=a78bfa&color=a5b4fc"/>
 
@@ -231,7 +245,7 @@ AI-assisted ambulance navigation with real-time optimization. A* pathfinding com
 
 | ✉️ Email | 💼 LinkedIn | ⚙️ GitHub | 📱 WhatsApp |
 |:---:|:---:|:---:|:---:|
-| [adityagr8.05@gmail.com](mailto:adityagr8.05@gmail.com) | [adityakaushik05](https://linkedin.com/in/adityakaushik05) | [AdityaK05](https://github.com/AdityaK05) | [+91-7275247405](tel:+917275247405) |
+| [adityagr8.05@gmail.com](mailto:adityagr8.05@gmail.com) | [adityakaushik05](https://linkedin.com/in/adityakaushik05) | [AdityaK05](https://github.com/AdityaK05) | [+91-7275247405](tel:+917275247405)[...]
 
 *"The best code is the one that ships — and creates lasting impact for real users across the world."*
 
