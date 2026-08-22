@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:03001a,50:07002e,80:03001a,100:000000&height=300&section=header&text=ADITYA%20KAUSHIK&fontSize=80&fontColor=a78bfa&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20LLM%20Engineer&descAlignY=55&descSize=18&descColor=a5b4fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:03001a,50:07002e,80:03001a,100:000000&height=200&section=header&text=ADITYA%20KAUSHIK&fontSize=70&fontColor=a78bfa&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=800&lines=Crafting+intelligent+systems+at+scale;Full-Stack+%2B+AI%2FLLM+Engineer;Building+production-grade+RAG+%26+Agentic+apps;ICPC+Amritapuri+Regional+Finalist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=800&lines=Crafting+intelligent+systems+at+scale;Full-Stack+%2B+AI%2FLLM+Engineer;Building+production-grade+RAG+%26+Agentic+apps;ICPC+Amritapuri+Regional+Finalist" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adityakaushik05-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakaushik05)
 [![Gmail](https://img.shields.io/badge/Gmail-adityagr8.05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityagr8.05@gmail.com)
